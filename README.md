@@ -1,76 +1,121 @@
-<h1 align="center">Hi 👋, I'm Darshan Kshetri</h1>
+<h1 align="center">Darshan Kshetri</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Software+Developer;SDET+%7C+Automation+Engineer;Full+Stack+Developer;DevOps+Enthusiast;AI+Systems+Builder" />
+Software Developer • SDET • Full Stack Engineer • AI Systems Builder
 </h3>
 
 <p align="center">
+Building scalable backend systems, intelligent automation workflows, and modern full stack applications.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Automation+Engineer;Spring+Boot+%7C+React+Developer;AI+Systems+Builder;CI%2FCD+%7C+DevOps+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshankgithub&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+
   <a href="https://darshan-modern-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
   <a href="mailto:darshankshetri8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
+
   <a href="https://www.linkedin.com/in/darshankshetri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
+
   <a href="https://leetcode.com/u/DarshanKshetri/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
+
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 Software Developer specializing in **Full Stack + Test Automation**
-- 🔍 Working as **SDET (Automation | CI/CD | Framework Design)**
-- ⚙️ Building scalable apps using **Spring Boot, React, Node.js**
-- 🤖 Exploring **AI-driven systems & automation workflows**
-- 📈 Focused on **clean architecture & performance**
-- 🏍️ Rider by passion
+# About Me
+
+- Software Developer focused on **Full Stack Engineering** and **Automation Systems**
+- Working with **Spring Boot, React, Node.js, CI/CD, and scalable backend architectures**
+- Experience in **SDET automation, framework design, API testing, and workflow optimization**
+- Exploring **AI Agents, Intelligent Automation, and Enterprise System Design**
+- Passionate about **performance engineering, clean architecture, and developer productivity**
 
 ---
 
-### 🛠️ Tech Stack
+# Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,react,nodejs,spring,mongodb,mysql,docker,jenkins,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,js,ts,cpp,mongodb,mysql,docker,jenkins,git,linux,postman&theme=dark" />
 </p>
 
 ---
 
-### 🔥 Current Focus
-- 🤖 AI Procurement & Automation Systems  
-- ⚙️ Advanced CI/CD Pipelines  
-- 🧠 System Design & Scalability  
+# Current Focus
+
+```yaml
+- AI Procurement Systems
+- Automation Frameworks
+- Enterprise CI/CD Pipelines
+- Distributed System Design
+- Full Stack Product Engineering
+```
 
 ---
 
-### 📊 GitHub Analytics
+
+### Engineering Principles
+
+- Build scalable systems
+- Automate repetitive workflows
+- Focus on maintainability
+- Optimize developer productivity
+- Design for performance and reliability
+
+---
+
+# GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshankgithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=darshankgithub&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshankgithub&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=darshankgithub&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🧠 Contribution Graph
+# Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshankgithub&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshankgithub&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-### 💡 Developer Philosophy
+# GitHub Trophies
+
 <p align="center">
-  <i>"Automate what repeats. Optimize what matters. Build what scales."</i>
+  <img src="https://github-profile-trophy.vercel.app/?username=darshankgithub&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+</p>
+
+---
+
+
+# Developer Philosophy
+
+<p align="center">
+  <i>
+    “Build systems that scale. Automate what repeats. Engineer solutions that create impact.”
+  </i>
+</p>
+
+---
+
+<p align="center">
+
+⭐ Always learning • 🚀 Always building • ⚡ Always improving
+
 </p>
