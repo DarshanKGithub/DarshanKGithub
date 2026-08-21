@@ -1,15 +1,16 @@
 <h1 align="center">Darshan Kshetri</h1>
 
 <h3 align="center">
-Software Developer • SDET • Full Stack Engineer • AI Systems Builder
+Software Developer • Data Engineer
 </h3>
 
 <p align="center">
-Building scalable backend systems, intelligent automation workflows, and modern full stack applications.
+Building scalable backend systems, data pipelines, ETL workflows,
+automation systems, and modern full-stack applications.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Automation+Engineer;Spring+Boot+%7C+React+Developer;AI+Systems+Builder;CI%2FCD+%7C+DevOps+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Developer;Data+Engineer;Backend+Engineer;Data+Pipeline+Builder;Spring+Boot+%7C+Python+%7C+SQL;Automation+%7C+CI%2FCD+%7C+Cloud" />
 </p>
 
 <p align="center">
@@ -38,84 +39,122 @@ Building scalable backend systems, intelligent automation workflows, and modern 
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-- Software Developer focused on **Full Stack Engineering** and **Automation Systems**
-- Working with **Spring Boot, React, Node.js, CI/CD, and scalable backend architectures**
-- Experience in **SDET automation, framework design, API testing, and workflow optimization**
-- Exploring **AI Agents, Intelligent Automation, and Enterprise System Design**
-- Passionate about **performance engineering, clean architecture, and developer productivity**
+- Software Developer with a strong foundation in **backend and full-stack engineering**
+- Currently specializing in **Data Engineering, ETL, and data pipeline development**
+- Building applications and systems using **Python, Java, Spring Boot, SQL, and JavaScript**
+- Interested in **data pipelines, data modeling, distributed systems, backend architecture, and automation**
+- Experienced with **REST APIs, databases, authentication, CI/CD, testing, and cloud deployment**
+- Exploring modern data technologies including **Apache Spark, Airflow, Kafka, and cloud data platforms**
+- Passionate about writing **maintainable, scalable, reliable, and production-oriented systems**
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,js,ts,cpp,mongodb,mysql,docker,jenkins,git,linux,postman&theme=dark" />
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
 </p>
 
+### 🌐 Backend & Software Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark" />
+</p>
+
+- Spring Boot
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Microservices
+- API Design
+- Backend Architecture
+
+### 📊 Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb&theme=dark" />
+</p>
+
+- SQL
+- ETL / ELT
+- Data Pipelines
+- Data Cleaning & Transformation
+- Data Modeling
+- Batch Processing
+- Data Validation
+- PostgreSQL
+- MySQL
+- MongoDB
+- Apache Spark
+- Apache Airflow
+- Apache Kafka
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+</p>
+
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Tailwind CSS
+
+### ⚙️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,postman&theme=dark" />
+</p>
+
+- Git & GitHub
+- Docker
+- Jenkins
+- CI/CD
+- Linux
+- Nginx
+- Postman
+- SonarQube
+- Snyk
+
+### ☁️ Cloud & Infrastructure
+
+- AWS
+- EC2
+- S3
+- Vercel
+- Nginx
+- Cloud Deployment
+- CI/CD Pipelines
+
 ---
 
-# Current Focus
+# 🚀 What I'm Currently Building
 
 ```yaml
-- AI Procurement Systems
-- Automation Frameworks
-- Enterprise CI/CD Pipelines
-- Distributed System Design
-- Full Stack Product Engineering
-```
+focus:
+  - Data Engineering
+  - ETL Pipelines
+  - Data Transformation
+  - SQL & Data Modeling
+  - Batch Data Processing
+  - Distributed Systems
+  - Backend Engineering
+  - Automation
+  - Cloud & CI/CD
 
----
-
-
-### Engineering Principles
-
-- Build scalable systems
-- Automate repetitive workflows
-- Focus on maintainability
-- Optimize developer productivity
-- Design for performance and reliability
-
----
-
-# GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=darshankgithub&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshankgithub&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshankgithub&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
-
----
-
-
-# Developer Philosophy
-
-<p align="center">
-  <i>
-    “Build systems that scale. Automate what repeats. Engineer solutions that create impact.”
-  </i>
-</p>
-
----
-
-<p align="center">
-
-⭐ Always learning • 🚀 Always building • ⚡ Always improving
-
-</p>
+learning:
+  - Apache Spark
+  - Apache Airflow
+  - Apache Kafka
+  - Data Warehousing
+  - Data Lake Architecture
+  - AWS Data Services
