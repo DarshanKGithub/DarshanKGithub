@@ -1,94 +1,84 @@
 # Darshan Kshetri
 
-<h3 align="center">Software Developer | Founder – KriyoTech Labs | B2B SaaS & AI Automation</h3>
+### Founder & CEO at KriyoTech Labs | Software Engineer | B2B SaaS & AI Automation
 
-<p align="center">
-Building intelligent software products, scalable backend systems, and AI-powered business automation solutions.
-</p>
+Building scalable software products, intelligent business automation systems, and technology solutions for Logistics & Transportation.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer;Founder+at+KriyoTech+Labs;B2B+SaaS+Product+Builder;Logistics+%26+Transportation+Technology;AI+%26+Workflow+Automation;Full-Stack+%26+Backend+Engineering;Building+Enterprise-Ready+Solutions" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darshankgithub&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.kriyotechlabs.tech/">
-    <img src="https://img.shields.io/badge/KriyoTech%20Labs-Company-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://darshan-modern-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:darshankshetri8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<p align="left">
+  <a href="https://kriyotechlabs.tech">
+    <img src="https://img.shields.io/badge/KriyoTech_Labs-Official_Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/darshankshetri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://darshan-modern-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-374151?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:darshankshetri8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm Darshan Kshetri, a Software Developer and Founder of **KriyoTech Labs**, an emerging B2B SaaS and AI Automation company focused on transforming business operations through intelligent software and automation.
+I'm Darshan Kshetri, a Software Engineer, entrepreneur, and Founder & CEO of **[KriyoTech Labs](https://kriyotechlabs.tech)**.
 
-My work combines software engineering, product development, backend architecture, and business automation.
+I focus on engineering scalable software applications, backend systems, and intelligent automation solutions that solve real-world business challenges.
 
-- Building scalable and enterprise-oriented software applications.
-- Developing B2B SaaS products for Logistics & Transportation.
-- Exploring AI Agents, intelligent automation, and workflow orchestration.
-- Designing robust backend systems, REST APIs, and database architectures.
-- Building full-stack applications using React, Next.js, Java, and Python.
-- Working with cloud infrastructure, Docker, CI/CD, and production deployments.
-- Interested in distributed systems, system design, and enterprise software architecture.
-- Focused on solving real-world operational challenges through technology.
+Through KriyoTech Labs, I'm building B2B SaaS products with a primary focus on Logistics & Transportation, AI Automation, and Enterprise Software.
 
-**My vision:** Build intelligent, scalable SaaS products that help businesses automate operations, improve efficiency, and make better decisions.
+- Founder & CEO of KriyoTech Labs.
+- Full-Stack Software Developer with backend engineering expertise.
+- Building B2B SaaS products for Logistics & Transportation.
+- Developing scalable REST APIs and backend architectures.
+- Exploring AI Agents, LLM integration, and workflow automation.
+- Experienced in database design, authentication, authorization, and API integration.
+- Interested in distributed systems, cloud infrastructure, and enterprise architecture.
+- Focused on building secure, maintainable, and production-ready applications.
+
+**My objective:** Build technology products that simplify business operations, improve operational efficiency, and enable businesses to scale.
 
 ---
 
-## 🚀 KriyoTech Labs
+## KriyoTech Labs
 
-<p align="center">
-  <a href="https://www.kriyotechlabs.tech/">
-    <img src="https://img.shields.io/badge/KRIYOTECH%20LABS-Building%20Intelligent%20Business%20Solutions-0e75b6?style=for-the-badge"/>
-  </a>
-</p>
+**B2B SaaS | AI Automation | Logistics & Transportation Technology**
 
-**KriyoTech Labs** is a technology startup focused on developing B2B SaaS platforms, AI-powered business automation, and enterprise software solutions.
+Website: https://kriyotechlabs.tech
 
-Our primary product direction is **Logistics & Transportation Technology**, where we aim to simplify complex operational processes through intelligent digital solutions.
+KriyoTech Labs is an emerging technology company focused on developing intelligent business software, SaaS platforms, and AI-powered automation solutions.
 
-### 🎯 Our Focus Areas
+Our primary industry focus is Logistics & Transportation, where we aim to address operational challenges through modern technology and intelligent digital infrastructure.
 
-| Domain | Focus |
+### Core Focus Areas
+
+| Industry / Technology | Solutions |
 |---|---|
-| 🚚 Logistics & Transportation | Fleet operations, shipment management, transportation workflows |
-| 🤖 AI Automation | AI agents, intelligent workflows, process automation |
-| 📦 B2B SaaS | Scalable, multi-tenant business applications |
-| 🔄 Workflow Automation | Automating repetitive business operations |
-| 📊 Business Intelligence | Operational analytics, reporting, and decision support |
-| ☁️ Enterprise Software | Secure, reliable, cloud-native applications |
+| Logistics & Transportation | Transportation management and logistics operations |
+| Fleet Management | Vehicle, driver, and fleet operations |
+| Shipment Visibility | Shipment tracking and operational monitoring |
+| AI Automation | AI agents and intelligent process automation |
+| Business Automation | Workflow orchestration and process optimization |
+| Enterprise SaaS | Scalable, secure, multi-tenant applications |
+| Business Intelligence | Analytics, reporting, and operational insights |
 
-### Our Product Vision
+### Product Development Vision
 
-- Intelligent Logistics Management Systems
-- Transportation & Fleet Management Solutions
-- Shipment Tracking & Operational Visibility
-- AI-Powered Workflow Automation
-- Enterprise SaaS Platforms
-- Intelligent Document Processing
-
-🌐 Website: https://www.kriyotechlabs.tech/
+- Logistics Management Platforms
+- Transportation Management Systems
+- Fleet Management Solutions
+- Real-Time Vehicle Tracking
+- Shipment Management & Visibility
+- AI-Powered Business Automation
+- Enterprise Workflow Management
 
 ---
 
-## 🛠️ Technical Skills & Technology Stack
+## Technical Skills
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts&theme=dark" />
@@ -96,7 +86,7 @@ Our primary product direction is **Logistics & Transportation Technology**, wher
 
 `Java` `Python` `C++` `JavaScript` `TypeScript`
 
-### ⚙️ Backend Engineering
+### Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark" />
@@ -106,34 +96,34 @@ Our primary product direction is **Logistics & Transportation Technology**, wher
 `REST APIs` `JWT Authentication` `RBAC`  
 `Microservices` `API Design` `Backend Architecture`
 
-### ⚛️ Frontend Development
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 </p>
 
-`React.js` `Next.js` `TypeScript` `JavaScript`  
-`HTML5` `CSS3` `Tailwind CSS` `Responsive UI`  
-`Shadcn UI` `REST API Integration`
+`React.js` `Next.js` `JavaScript` `TypeScript`  
+`HTML5` `CSS3` `Tailwind CSS` `Shadcn UI`  
+`Responsive Design` `API Integration`
 
-### 🗄️ Databases & Data Management
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 </p>
 
 `PostgreSQL` `MySQL` `MongoDB` `Redis`  
-`SQL` `Database Design` `Query Optimization`  
-`JPA / Hibernate` `SQLAlchemy` `Prisma` `Flyway`
+`Prisma` `SQLAlchemy` `JPA / Hibernate`  
+`Database Design` `Query Optimization` `Flyway`
 
-### 🤖 AI & Automation
+### AI & Automation
 
 `AI Agents` `LLM Integration` `OpenAI APIs`  
-`Amazon Bedrock` `Workflow Automation`  
-`Intelligent Document Processing` `RAG`  
-`Vector Databases` `pgvector` `Celery` `RabbitMQ`
+`Amazon Bedrock` `RAG` `pgvector`  
+`Workflow Automation` `Celery` `RabbitMQ`  
+`Intelligent Document Processing`
 
-### ☁️ Cloud, DevOps & Infrastructure
+### Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,linux,nginx&theme=dark" />
@@ -143,28 +133,49 @@ Our primary product direction is **Logistics & Transportation Technology**, wher
 `Jenkins` `GitHub Actions` `CI/CD`  
 `Linux` `Nginx` `Vercel` `Cloud Deployment`
 
-### 🧰 Development & Engineering Tools
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman&theme=dark" />
 </p>
 
 `VS Code` `IntelliJ IDEA` `Postman`  
-`Git` `GitHub` `SonarQube` `Snyk`  
-`Agile Development` `API Testing` `Code Quality`
+`Git` `GitHub` `SonarQube` `Snyk`
 
 ---
 
-## 🚚 Current Engineering & Product Focus
+## Products & Projects
 
-Currently focusing on building technology for the Logistics & Transportation industry.
+### KriyoTech Labs – Logistics & Transportation SaaS
+
+Developing technology solutions for transportation businesses, fleet operations, shipment visibility, and workflow automation.
+
+**Focus:** Logistics Management, Fleet Management, Shipment Tracking, Transportation Operations, and AI Automation.
+
+**Technology:** Next.js, React, TypeScript, Spring Boot, FastAPI, PostgreSQL, Docker, AWS.
+
+Website: https://kriyotechlabs.tech
+
+### KriyoPay – Payment & Recruitment Platform
+
+A digital product involving payment integration and recruitment assessment workflows.
+
+**Focus:** Mobile Application Development, Payment Gateway Integration, Backend APIs, and Secure Transactions.
+
+**Technology:** React Native, FastAPI, PostgreSQL, Razorpay.
+
+---
+
+## Current Engineering Focus
 
 ```yaml
-company: KriyoTech Labs
+role:
+  title: Founder & CEO
+  company: KriyoTech Labs
 
 business:
   model: B2B SaaS
-  industry:
+  primary_industry:
     - Logistics
     - Transportation
   focus:
@@ -176,58 +187,57 @@ engineering:
   - Full-Stack Development
   - Backend Engineering
   - REST API Architecture
-  - Database Design
+  - Database Engineering
   - Multi-Tenant SaaS Architecture
   - Authentication & Authorization
   - Cloud Infrastructure
   - CI/CD & DevOps
-
-product_development:
-  - Logistics Management
-  - Fleet Management
-  - Transportation Workflows
-  - Shipment Visibility
-  - AI-Powered Automation
-  - Enterprise Integrations
 
 learning:
   - Advanced System Design
   - Distributed Systems
   - Microservices Architecture
   - Kubernetes
-  - Cloud-Native Architecture
   - AI Agent Development
-  - Scalable SaaS Architecture
+  - Cloud-Native Architecture
+  - Scalable SaaS Engineering
 ```
 
 ---
 
-## 🏗️ Engineering Philosophy
+## Engineering Principles
 
-I believe great software is not just about writing code. It is about understanding business problems, designing reliable systems, and building solutions that create measurable value.
-
-My engineering principles:
-
-- **Scalability:** Build systems that can grow with business requirements.
-- **Reliability:** Prioritize stable, maintainable, and production-ready software.
-- **Security:** Follow secure development and authentication practices.
-- **Automation:** Eliminate repetitive processes through intelligent systems.
-- **Architecture:** Design software with long-term maintainability in mind.
-- **Product Thinking:** Build technology around real customer and business needs.
+- **Scalability:** Design applications that can grow with business requirements.
+- **Reliability:** Build maintainable and production-ready systems.
+- **Security:** Prioritize secure APIs, authentication, and data protection.
+- **Performance:** Optimize application performance and database operations.
+- **Automation:** Reduce repetitive business processes through intelligent technology.
+- **Product Thinking:** Understand business problems before engineering solutions.
 
 ---
 
-## 🤝 Let's Connect
+## GitHub Statistics
 
-I'm interested in connecting with software engineers, founders, logistics professionals, technology partners, and businesses exploring SaaS and AI automation.
-
-<p align="center">
-  <a href="https://www.kriyotechlabs.tech/">KriyoTech Labs</a> •
-  <a href="https://www.linkedin.com/in/darshankshetri/">LinkedIn</a> •
-  <a href="https://darshan-modern-portfolio.vercel.app/">Portfolio</a> •
-  <a href="mailto:darshankshetri8@gmail.com">Email</a>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darshankgithub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshankgithub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
+---
+
+## Connect With Me
+
+I'm open to connecting with software engineers, founders, entrepreneurs, logistics professionals, technology partners, and businesses interested in SaaS and AI-powered automation.
+
+- **Company:** https://kriyotechlabs.tech
+- **LinkedIn:** https://www.linkedin.com/in/darshankshetri/
+- **Portfolio:** https://darshan-modern-portfolio.vercel.app/
+- **Email:** darshankshetri8@gmail.com
+
+---
+
 <p align="center">
-  <b>Building Technology. Automating Businesses. Engineering the Future.</b>
+  <strong>Building Technology. Automating Businesses. Transforming Logistics.</strong>
+  <br/><br/>
+  Founder & CEO — KriyoTech Labs
 </p>
